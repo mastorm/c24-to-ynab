@@ -9,10 +9,10 @@ pub struct Record {
 }
 
 pub fn write_csv(
-    writer: impl io::Write,
     records: impl Iterator<Item = Record>,
-) -> Result<(), Box<dyn std::error::Error>> {
-    let mut writer = csv::Writer::from_writer(writer);
+) -> Result<Vec<u8>, Box<dyn Error>> {
+    let mut out_buffer = vec![];
+    let mut writer = csv::Writer::from_writer(&mut out_buffer);
 
     write_csv_header(&mut writer)?;
 
@@ -26,7 +26,8 @@ pub fn write_csv(
 
     writer.flush()?;
 
-    Ok(())
+    drop(writer);
+    Ok(out_buffer)
 }
 
 fn write_csv_header(writer: &mut csv::Writer<impl std::io::Write>) -> Result<(), Box<dyn Error>> {

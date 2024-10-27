@@ -1,7 +1,5 @@
 use std::io;
 
-use csv::Reader;
-
 #[derive(Debug)]
 pub struct Record {
     pub transaction_type: String,
@@ -47,7 +45,7 @@ fn parse_date(val: Option<&str>) -> Option<chrono::NaiveDate> {
 fn parse_float(val: Option<&str>) -> f64 {
     match val.unwrap().replace(",", ".").parse::<f64>() {
         Ok(n) => n,
-        Err(e) => panic!("Value \"{:?}\" can not be parsed to float", val),
+        _Err => panic!("Value \"{:?}\" can not be parsed to float", val),
     }
 }
 

@@ -1,0 +1,60 @@
+﻿Transaktionstyp,Buchungsdatum,Betrag,Zahlungsempfänger,IBAN,BIC,Verwendungszweck,Beschreibung,Kategorie,Unterkategorie
+Abbuchung,24.10.2024,"-369,31",Janine Lemme,DE81320613844801583011,,Schuldentilgung,,Weitere Ausgaben,Weitere Ausgaben
+Abbuchung,24.10.2024,"-2,70",Baeckerei Jansen,,,,,Lebensmittel,Bäckerei
+Abbuchung,24.10.2024,"-17,90",Deutsche Bahn,,,,DB Vertrieb GmbH,Mobilität,Bahntickets
+Abbuchung,24.10.2024,"-2,80",Relay Plaza T1 T2,,,,,Weitere Ausgaben,Weitere Ausgaben
+SEPA-Überweisung,24.10.2024,"150,00",Mathias Storm,DE88700331001779895000,BDWBDEMMXXX,Scalable Capital Broker Auszahlung,,Weitere Einnahmen,Weitere Einnahmen
+Abbuchung,24.10.2024,"-4,50",Deutsche Bahn,,,,PAYPAL *DBVERTRIEBG A-,Weitere Ausgaben,Weitere Ausgaben
+Abbuchung,24.10.2024,"-3,38",Spar,,,,Interspar Fil. 8400,Lebensmittel,Supermarkt
+Rückerstattung,24.10.2024,"277,60",Motel One,,,,Motel One Austria GmbH,Weitere Einnahmen,Weitere Einnahmen
+Kartenzahlung,24.10.2024,"-10,40",BahnBistro BB4195,,,,,Weitere Ausgaben,Weitere Ausgaben
+Kartenzahlung,24.10.2024,"-3,18",Spar,,,,Interspar Fil. 8400,Lebensmittel,Sonstiges Lebensmittel
+Kartenzahlung,23.10.2024,"-277,16",Motel One,,,,Motel One Austria GmbH,Reisen & Urlaub,Hotel & Urlaubswohnungen
+Kartenzahlung,23.10.2024,"-17,90",Chilli and Cheesy,,,,,Weitere Ausgaben,Weitere Ausgaben
+Kartenzahlung,23.10.2024,"-2,90",Selecta,,,,Selecta Betriebsverpfl,Lebensmittel,Sonstiges Lebensmittel
+Abbuchung,22.10.2024,"-4,50",Deutsche Bahn,,,,PAYPAL *DBVERTRIEBG A-,Weitere Ausgaben,Weitere Ausgaben
+SEPA-Überweisung,22.10.2024,"742,23",Mathias Storm,DE88700331001779895000,BDWBDEMMXXX,Scalable Capital Broker Auszahlung,,Weitere Einnahmen,Weitere Einnahmen
+Kartenzahlung,23.10.2024,"-3,40",Bäckerei Terbuyken Fil,,,,,Lebensmittel,Bäckerei
+Online-Kartenzahlung,23.10.2024,"-17,90",Deutsche Bahn,,,,DB Vertrieb GmbH,Mobilität,Bahntickets
+Online-Kartenzahlung,20.10.2024,"-28,80",Lieferando,,,,Lieferando.de D6V4JT,Restaurant/ Café/ Bar,Lieferservice
+Online-Kartenzahlung,21.10.2024,"-15,00",PAYPAL *SLESON,,,,,Weitere Ausgaben,Weitere Ausgaben
+Kartenzahlung,19.10.2024,"-4,70",Baeckerei Wanders,,,,,Lebensmittel,Bäckerei
+SEPA-Lastschrift,18.10.2024,"-19,99",O2/Telefonica,DE16700202700005713153,HYVEDEMMXXX,"Kd-Nr.: 6091265914, Rg-Nr.: 1096280510/8, Ihre Tarifrechnung",Telefonica Germany GmbH + Co. OHG,DSL & Mobilfunk,Mobilfunk
+Online-Kartenzahlung,21.10.2024,"-0,99",APPLE,,,,PAYPAL *ITUNESAPPST AP,Freizeit & Unterhaltung,Entertainment
+SEPA-Überweisung,18.10.2024,"150,00",Janine Marie Katrin Lemme,DE81320613844801583011,GENODED1GDL,,,Weitere Einnahmen,Weitere Einnahmen
+SEPA-Überweisung,18.10.2024,"4,99",Janine Marie Katrin Lemme,DE81320613844801583011,GENODED1GDL,,,Weitere Einnahmen,Weitere Einnahmen
+Online-Kartenzahlung,18.10.2024,"-4,99",Amazon,,,,AMZN Mktp DE*T353K7GX4,Shopping,Online-Shopping
+SEPA-Überweisung,17.10.2024,"-192,86",IU Internationale Hochschule GmbH,DE19210500001001415390,HSHNDEHHXXX,10451567,,Bildung & Beruf,Hochschule
+SEPA-Lastschrift,16.10.2024,"-19,83",AdamRiese,DE61600501010008682107,SOLADEST600,Rechnung Nr.:809833778 Beitrag 00835487.3.001 Rechtsschutz Periode15.10.2024-14.11.2024,Adam Riese GmbH,Versicherungen,Rechtsschutzversicherung
+Online-Kartenzahlung,17.10.2024,"-3,74",Playstation,,,,PAYPAL *PLAYSTATION,Freizeit & Unterhaltung,Entertainment
+SEPA-Lastschrift,15.10.2024,"-150,00",Scalable Capital,DE88700331001779895000,BDWBDEMMXXX,Scalable Capital Broker Sparplan,Mathias Storm,Geldanlage,Kapitalanlage
+SEPA-Lastschrift,14.10.2024,"-82,68",Riverty GmbH,DE62478400650158014106,COBADEFFXXX,032100029316908 Amazon Monatsabrechnung  September 2024,,Shopping,Online-Shopping
+Online-Kartenzahlung,12.10.2024,"-38,99",Amazon,,,,AMZN Mktp DE*TQ3IQ51Y4,Shopping,Online-Shopping
+Kartenzahlung,11.10.2024,"-157,75",TIERARZT THIJS UND KOLLEG Tierarzt Thijs und Kol GIR 79987652,,,,TIERARZT THIJS UND KOLLEG Tierarzt Thijs und Kol GIR 79987652//GOCH/DE,Haustiere,Tierarzt
+Online-Kartenzahlung,11.10.2024,"-0,60",PAYBYPHONE DEUTSCHLAND,,,,,Mobilität,Parken
+Online-Kartenzahlung,10.10.2024,"-3,91",Amazon,,,,AMZN Mktp DE*TQ7GL3NM4,Shopping,Online-Shopping
+Online-Kartenzahlung,10.10.2024,"-30,50",Lieferando,,,,Lieferando.de 6XTP8C,Restaurant/ Café/ Bar,Lieferservice
+SEPA-Lastschrift,09.10.2024,"-2476,73",Mathias Storm,DE88700331001779895000,BDWBDEMMXXX,Scalable Capital Broker Sparplan,,Geldanlage,Kapitalanlage
+Online-Kartenzahlung,10.10.2024,"-31,99",Amazon,,,,AMZN Mktp DE*TQ70F8Z24,Shopping,Online-Shopping
+SEPA-Überweisung,09.10.2024,"-190,00","Shadow-Dogs, Karina Mayer-Nanasi",DE04320613840000401005,GENODED1GDL,Kursgebühr für Sonya (Janine Lemme),,Weitere Ausgaben,Weitere Ausgaben
+Kartenzahlung,09.10.2024,"-4,70",Baeckerei Wanders,,,,,Lebensmittel,Bäckerei
+SEPA-Überweisung,08.10.2024,"1670,14",Mathias Storm,DE50100123450843573001,TRBKDEBBXXX,,,Umbuchung,Umbuchung
+SEPA-Überweisung,08.10.2024,"806,59",Mathias Storm,DE50100123450843573001,TRBKDEBBXXX,,,Umbuchung,Umbuchung
+Echtzeit-Überweisung,07.10.2024,"-13,00",Mathias Storm,DE44200411110811208800,COBADEHDXXX,Übertrag ComDirect,,Weitere Ausgaben,Weitere Ausgaben
+SEPA-Überweisung,07.10.2024,"-600,00",Mathias Storm,DE50100123450843573001,TRBKDEBBXXX,Übertrag TradeRepublic,,Geldanlage,Kapitalanlage
+Echtzeit-Überweisung,06.10.2024,"-64,49",Mathias Storm,DE44200411110811208800,COBADEHDXXX,Übertrag ComDirect,,Weitere Ausgaben,Weitere Ausgaben
+Kartenzahlung,06.10.2024,"-9,95",Esso,,,,Esso Station Goch 4757,Mobilität,Tanken
+Online-Kartenzahlung,05.10.2024,"-9,99",Amazon,,,,AMZN Mktp DE*TO9WY5NA4,Shopping,Online-Shopping
+Online-Kartenzahlung,05.10.2024,"-34,03",LEMSQZY* THORSTENBALL,,,,,Bildung & Beruf,Sonstiges Bildung & Beruf
+Gutschrift,04.10.2024,"10,00",C24 Bank,,,Ihre Kulanzbuchung der C24 Bank,,Weitere Einnahmen,Weitere Einnahmen
+Bargeldabhebung,05.10.2024,"-50,00",VOLKSBANK AN DER NIERS,,,,,Bargeld,Bargeld
+Online-Kartenzahlung,05.10.2024,"-1,20",PAYBYPHONE DEUTSCHLAND,,,,,Mobilität,Parken
+Echtzeit-Überweisung,02.10.2024,"-1100,00",Mathias Storm,DE44200411110811208800,COBADEHDXXX,,,Wohnen & Haushalt,Hausgeld
+SEPA-Lastschrift,01.10.2024,"-19,83",AdamRiese,DE61600501010008682107,SOLADEST600,Rechnung Nr.:809636559 Beitrag 00835487.3.001 Rechtsschutz Periode15.09.2024-14.10.2024,Adam Riese GmbH,Versicherungen,Rechtsschutzversicherung
+SEPA-Überweisung,30.09.2024,"2702,31",Slenderiser GmbH,DE80300400000303802300,COBADEDDXXX,Lohn - Gehalt Abrechnung 09/2024,,Einkommen,Lohn/ Gehalt
+Zinszahlung,30.09.2024,"0,07",C24 Bank,,,,,Weitere Einnahmen,Weitere Einnahmen
+Gutschrift,29.09.2024,"75,00",C24 Bank,,,Gutschrift der C24 Bank,,Weitere Einnahmen,Weitere Einnahmen
+Kartenzahlung,29.09.2024,"-30,14",Fressnapf,,,,Fressnapf Goch,Haustiere,Sonstiges Haustiere
+Kartenzahlung,21.09.2024,"-9,95",Esso,,,,Esso Station Goch 4757,Mobilität,Tanken
+Kartenzahlung,21.09.2024,"-19,80",SCHINKEN ARNTZ GMBH,,,,,Restaurant/ Café/ Bar,Kantine
+SEPA-Überweisung,16.09.2024,"100,00",Mathias Storm,DE44200411110811208800,COBADEHDXXX,Uebertrag,,Weitere Einnahmen,Weitere Einnahmen
